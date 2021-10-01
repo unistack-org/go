@@ -1,0 +1,6 @@
+baseURL: 'https://go.unistack.org/'
+languageCode: 'en-us'
+title: 'go.unistack.org'
+permalinks:
+  /: '/:title'
+disableKinds: ["home", "section", "taxonomy", "term", "RSS", "sitemap", "robotsTXT", "404"]
