@@ -1,6 +1,16 @@
 baseURL: 'https://go.unistack.org/'
 languageCode: 'en-us'
 title: 'go.unistack.org'
+mediaTypes:
+  text/html:
+    suffixes: ''
+outputFormats:
+  HTML:
+    baseName: ''
+    mediaType: text/html
+#outputs:
+#  page: [ imports ]
+uglyurls: true
 permalinks:
   /: '/:title'
 disableKinds: ["home", "section", "taxonomy", "term", "RSS", "sitemap", "robotsTXT", "404"]
