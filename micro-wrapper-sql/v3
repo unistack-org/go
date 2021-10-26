@@ -1,0 +1,9 @@
+<!doctype html><html>
+<head>
+<title>v3</title>
+<meta charset=utf-8>
+<meta name=go-import content="go.unistack.org/micro-wrapper-sql/v3 git https://github.com/unistack-org/micro-wrapper-sql">
+<meta name=go-source content="go.unistack.org/micro-wrapper-sql/v3 _ https://github.com/unistack-org/micro-wrapper-sql/tree/v3{/dir} https://github.com/unistack-org/micro-wrapper-sql/blob/v3/{/dir}/{file}#L{line}">
+</head>
+<body>
+</html>
