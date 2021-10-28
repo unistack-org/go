@@ -2,9 +2,9 @@
 <head>
 <title>v3</title>
 <meta charset=utf-8>
+<meta http-equiv=refresh content="5;https://pkg.go.dev/go.unistack.org/micro-store-redis/v3">
 <meta name=go-import content="go.unistack.org/micro-store-redis/v3 git https://github.com/unistack-org/micro-store-redis">
 <meta name=go-source content="go.unistack.org/micro-store-redis/v3 _ https://github.com/unistack-org/micro-store-redis/tree/v3{/dir} https://github.com/unistack-org/micro-store-redis/blob/v3/{/dir}/{file}#L{line}">
-<meta http-equiv=refresh content="5;https://pkg.go.dev/go.unistack.org/micro-store-redis/v3">
 </head>
 <body>
 </html>
