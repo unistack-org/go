@@ -1,9 +1,10 @@
-<!doctype html><html>
+<!doctype html><html lang=en>
 <head>
 <title>v3</title>
 <meta charset=utf-8>
 <meta name=go-import content="go.unistack.org/micro-logger-zerolog/v3 git https://github.com/unistack-org/micro-logger-zerolog">
 <meta name=go-source content="go.unistack.org/micro-logger-zerolog/v3 _ https://github.com/unistack-org/micro-logger-zerolog/tree/v3{/dir} https://github.com/unistack-org/micro-logger-zerolog/blob/v3/{/dir}/{file}#L{line}">
+<meta http-equiv=refresh content="5;https://pkg.go.dev/go.unistack.org/micro-logger-zerolog/v3">
 </head>
 <body>
 </html>

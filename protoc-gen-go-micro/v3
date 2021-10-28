@@ -1,9 +1,10 @@
-<!doctype html><html>
+<!doctype html><html lang=en>
 <head>
 <title>v3</title>
 <meta charset=utf-8>
 <meta name=go-import content="go.unistack.org/protoc-gen-go-micro/v3 git https://github.com/unistack-org/protoc-gen-go-micro">
 <meta name=go-source content="go.unistack.org/protoc-gen-go-micro/v3 _ https://github.com/unistack-org/protoc-gen-go-micro/tree/v3{/dir} https://github.com/unistack-org/protoc-gen-go-micro/blob/v3/{/dir}/{file}#L{line}">
+<meta http-equiv=refresh content="5;https://pkg.go.dev/go.unistack.org/protoc-gen-go-micro/v3">
 </head>
 <body>
 </html>
