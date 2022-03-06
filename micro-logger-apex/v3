@@ -1,10 +1,8 @@
 <!doctype html><html lang=en>
 <head>
-<title>v3</title>
-<meta charset=utf-8>
+<title>v3</title><meta charset=utf-8>
 <meta http-equiv=refresh content="5;https://pkg.go.dev/go.unistack.org/micro-logger-apex/v3">
 <meta name=go-import content="go.unistack.org/micro-logger-apex/v3 git https://github.com/unistack-org/micro-logger-apex">
 <meta name=go-source content="go.unistack.org/micro-logger-apex/v3 _ https://github.com/unistack-org/micro-logger-apex/tree/v3{/dir} https://github.com/unistack-org/micro-logger-apex/blob/v3/{/dir}/{file}#L{line}">
-</head>
-<body>
+</head><body>
 </html>
