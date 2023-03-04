@@ -3,9 +3,12 @@
 <head>
   <title>{{ .Title }}</title>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-  <meta http-equiv="refresh" content="5;{{ .Params.redirect }}"/>
-  <meta name="go-import" content="{{ .Params.import }}"/>
-  <meta name="go-source" content="{{ .Params.source }}"/>
+  <meta http-equiv="refresh" content="5;url=https://pkg.go.dev/{{ .Params.import }}/{{ .Params.version }}"/>
+  <meta name="go-import" content="{{ .Params.import }}/{{ .Params.version }} git {{ .Params.source }}"/>
+  <meta name="go-source" content="{{ .Params.import }}/{{ .Params.version }} _ {{ .Params.source }}{/dir} {{ .Params.source }}/blob/{{ .Params.version }}/{/dir}/{file}#L{line}"/>
   </head>
-<body/>
+  <body>
+    <a href="https://pkg.go.dev/{{ .Params.import }}/{{ .Params.version }}">pkg.go.dev</a><br/>
+    go get {{ .Params.import }}/{{ .Params.version }}<br/>
+  </body>
 </html>
